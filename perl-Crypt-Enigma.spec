@@ -6,7 +6,8 @@ Summary(pl):	Modu³ Perla Crypt::Enigma - implementacja maszyny Enigma z IIW¦
 Name:		perl-Crypt-Enigma
 Version:	1.3
 Release:	2
-License:	Artistic or GPL
+# same as perl
+License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	df345b5a952eb63ec37c1fc00776c9c8
