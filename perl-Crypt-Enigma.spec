@@ -1,6 +1,6 @@
 %include	/usr/lib/rpm/macros.perl
-%define		pdir	Crypt
-%define		pnam	Enigma
+%define	pdir	Crypt
+%define	pnam	Enigma
 Summary:	Crypt::Enigma Perl module - WWII Enigma Machine implementation
 Summary(pl):	Modu³ Perla Crypt::Enigma - implementacja maszyny Enigma z IIW¦
 Name:		perl-Crypt-Enigma
