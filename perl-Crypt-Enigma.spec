@@ -2,7 +2,7 @@
 %define		pdir	Crypt
 %define		pnam	Enigma
 Summary:	Crypt::Enigma Perl module - WWII Enigma Machine implementation
-Summary(pl):	Modu³ Perla Crypt::Enigma - implementacja maszyny Enigma z IIW¦
+Summary(pl.UTF-8):   ModuÅ‚ Perla Crypt::Enigma - implementacja maszyny Enigma z IIWÅš
 Name:		perl-Crypt-Enigma
 Version:	1.3
 Release:	3
@@ -22,11 +22,11 @@ Machine used during World War II. The cipher calculations are based on
 actual Enigma values and the resulting ciphered values are as would be
 expected from an Enigma Machine.
 
-%description -l pl
-Ten modu³ jest pe³n± implementacj± w Perlu maszyny szyfruj±cej Enigma,
-u¿ywanej w czasie II Wojny ¦wiatowej. Obliczenia szyfru bazuj± na
-prawdziwych warto¶ciach wziêtych z enigmy i daj± wyniki takie, jakie
-powinna daæ maszyna.
+%description -l pl.UTF-8
+Ten moduÅ‚ jest peÅ‚nÄ… implementacjÄ… w Perlu maszyny szyfrujÄ…cej Enigma,
+uÅ¼ywanej w czasie II Wojny Åšwiatowej. Obliczenia szyfru bazujÄ… na
+prawdziwych wartoÅ›ciach wziÄ™tych z enigmy i dajÄ… wyniki takie, jakie
+powinna daÄ‡ maszyna.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
