@@ -2,7 +2,7 @@
 %define		pdir	Crypt
 %define		pnam	Enigma
 Summary:	Crypt::Enigma Perl module - WWII Enigma Machine implementation
-Summary(pl.UTF-8):   Moduł Perla Crypt::Enigma - implementacja maszyny Enigma z IIWŚ
+Summary(pl.UTF-8):	Moduł Perla Crypt::Enigma - implementacja maszyny Enigma z IIWŚ
 Name:		perl-Crypt-Enigma
 Version:	1.3
 Release:	3
